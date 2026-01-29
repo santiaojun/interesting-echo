@@ -1,0 +1,18 @@
+# 过滤 Maven 编译生成的 target 文件夹
+/target/
+*.class
+
+# 过滤 IDE生成的配置文件
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# 过滤操作系统生成的临时文件
+.DS_Store
+Thumbs.db
+
+# 过滤日志文件
+*.log
