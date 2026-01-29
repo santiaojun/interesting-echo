@@ -30,6 +30,4 @@ Deploy: Run the container on Amazon ECS, managed by an Application Load Balancer
 🔗 Live Verification
 The service was verified by sending GET requests to the ALB DNS endpoint.
 
-Endpoint: http://hello-alb-309410350.us-east-1.elb.amazonaws.com
-
 Success Response: hello! my name is santiaojun~
