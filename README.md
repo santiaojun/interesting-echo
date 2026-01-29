@@ -30,4 +30,6 @@ Deploy: Run the container on Amazon ECS, managed by an Application Load Balancer
 🔗 Live Verification
 The service was verified by sending GET requests to the ALB DNS endpoint.
 
-Success Response: hello! my name is santiaojun~
+Success Response: 
+you say: hello! my name is santiaojun~
+It says: hello! my name is santiaojun~
